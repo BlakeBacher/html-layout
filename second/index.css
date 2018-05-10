@@ -1,0 +1,67 @@
+body{
+    background-color: whitesmoke;
+    margin: 10px 200px 10px 200px;
+}
+
+.box1{
+    border-style: solid;
+    border-color: black;
+    height: 200px;
+    width: 100%;
+    margin-top: 20px auto;
+}
+.box2{
+    border-style: dotted;
+    border-color: black;
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+
+}
+.box3{
+    border-style: solid;
+    border-color: black;
+    height: 250px;
+    width: 400px;
+    display: block;
+    margin: 20px auto;
+}
+.smallbox{
+    background-color: purple;
+    height: 150px;
+    width: 50px;
+    margin: 10px;
+    position: absolute;
+    top: 40px;
+}
+.bigbox{
+    background-color: green;
+    height: 175px;
+    width: 300px;
+    margin: 10px 0px 10px 115px;
+    position: absolute;
+}
+.circle{
+    background-color: aqua;
+    height: 175px;
+    width: 175px;
+    border-radius: 100%;
+    position: absolute;
+    margin: 10px 475px
+}
+.shader{
+    background-color: rgb(252, 252, 165);
+    height: 85%;
+    width: 85%;
+    margin: 10px auto;
+    box-shadow: 8px 8px 8px rgb(92, 92, 92);
+}
+.text{
+    color:blue;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    padding: 115px 0;
+
+}

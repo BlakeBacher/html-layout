@@ -1,0 +1,18 @@
+header{
+    background-color: grey;
+    height: 10%;
+}
+.bluesquare{
+    height: 10vh;
+    width: 10vh;
+    background-color: rgb(10, 133, 216);
+    margin: 10px;
+}
+.mainStuff{
+    text-align: center;
+}
+.hbars{
+    background: black;
+    width: 100%;
+    height: 100px;
+}

@@ -1,0 +1,28 @@
+body{
+    background: white;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.header{
+    background: rgb(73, 73, 73);
+    height: 175px;
+    width: 100%;
+}
+/* div{
+    background: black;
+    height: 10%;
+    width: 100%;
+} */
+.bars{
+    margin: 0px;
+    background-color: rgb(197, 197, 197);
+    height: 90vh;
+    width: 200px;
+}
+.foot{
+    background: black;
+    height: 75px;
+    margin-top: 565px;
+}
